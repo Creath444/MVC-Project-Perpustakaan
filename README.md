@@ -34,7 +34,7 @@ Proyek ini dikembangkan menggunakan teknologi berikut:
 
 2. **Clone Repositori:**
    ```bash
-   git clone https://github.com/namauser/MVC-Project-Perpustakaan.git
+   git clone https://github.com/Creath444/MVC-Project-Perpustakaan.git
    ```
 
 3. **Konfigurasi Database:**
