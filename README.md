@@ -34,14 +34,14 @@ Proyek ini dikembangkan menggunakan teknologi berikut:
 
 2. **Clone Repositori:**
    ```bash
-   git clone [URL Repositori]
+   git clone https://github.com/namauser/MVC-Project-Perpustakaan.git
    ```
 
 3. **Konfigurasi Database:**
-   - Buat database dan impor skema yang diberikan (lihat 'connection.php').
+   - Buat database dan impor skema yang diberikan lihat 'connection.php'.
 
 4. **Konfigurasi Koneksi Database:**
-   - Temukan file konfigurasi database ('app/config/connection.php') dan atur parameter koneksi sesuai dengan database Anda.
+   - Temukan file konfigurasi database 'app/config/connection.php' dan atur parameter koneksi sesuai dengan database Anda.
 
 5. **Jalankan Aplikasi:**
    - Buka proyek di browser Anda.
@@ -52,7 +52,7 @@ Jika Anda ingin berkontribusi pada proyek ini, silakan buat _pull request_ dan b
 
 ## Lisensi
 
-Proyek ini dilisensikan di bawah MIT-LICENSES. Lihat file `LICENSE` untuk informasi lebih lanjut.
+Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 
 ---
 
